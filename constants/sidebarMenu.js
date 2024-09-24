@@ -51,12 +51,18 @@ const SidebarData = [
       },
       {
         id: 8,
+        label: 'Extension',
+        icon: '/images/dasboardImages/extention.png',
+        path: '/menu/extension',
+      },
+      {
+        id: 9,
         label: 'Peraturan Perusahaan',
         icon: '/images/dasboardImages/peraturanperusahaan.png',
         path: '/menu/peraturanPerusahaan',
       },
       {
-        id: 9,
+        id: 10,
         label: 'ESS',
         icon: '/images/dasboardImages/ess.png',
         path: '/menu/ess',
