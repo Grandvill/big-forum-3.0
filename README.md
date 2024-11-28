@@ -23,6 +23,6 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 ## Screenshot Website
 ![Tampilan Halaman Login BigForum](public/images/github/loginbigforum.jpg)
 ![Tampilan Dashboard BigForum](public/images/github/dashboardbigforum.png)
-![Tampilan Modul Profile BigForum](public/images/github/profilbigforum.jpg)
-![Tampilan Modul Umum BigForum](public/images/github/rapatbigforum.jpg)
+![Tampilan Modul Profile BigForum](public/images/github/profilbigforum.png)
+![Tampilan Modul Umum BigForum](public/images/github/rapatbigforum.png)
 
