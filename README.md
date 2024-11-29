@@ -20,7 +20,7 @@ You can start editing the page by modifying `app/page.tsx`. The page auto-update
 
 This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Screenshot Website
+## Tampilan Website
 ![Tampilan Halaman Login BigForum](public/images/github/loginbigforum.jpg)
 ![Tampilan Dashboard BigForum](public/images/github/dashboardbigforum.png)
 ![Tampilan Modul Profile BigForum](public/images/github/profilbigforum.png)
